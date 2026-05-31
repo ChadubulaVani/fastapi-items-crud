@@ -60,7 +60,7 @@ FASTAPI-ITEMS-CRUD/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/fastapi-crud-items.git
+git clone https://github.com/ChadubulaVani/fastapi-items-crud.git
 cd fastapi-items-crud
 ````
 
